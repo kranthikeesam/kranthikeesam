@@ -60,14 +60,6 @@ With experience across **AWS**, **Azure**, and modern **data analytics tools**, 
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keesamk&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keesamk&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ### 📫 Connect with Me  
 📧 **Email:** [kranthikumarkeesam@gmail.com](mailto:kranthikumarkeesam@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/keesamk](https://www.linkedin.com/in/keesamk/)  
