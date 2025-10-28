@@ -48,18 +48,6 @@ With experience across **AWS**, **Azure**, and modern **data analytics tools**, 
 
 ---
 
-### 📊 Featured Projects  
-*(Add your GitHub repository links once ready)*  
-- **Sales Performance Dashboard** – Visualized sales KPIs in Power BI to identify 15% growth opportunities.  
-- **Customer Churn Analysis** – Built predictive models in Python to improve customer retention.  
-- **ETL Automation Pipeline** – Automated data ingestion using Python and AWS Lambda.  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="400" alt="Analytics GIF"/>
-</p>
-
----
-
 ### 📫 Connect with Me  
 📧 **Email:** [kranthikumarkeesam@gmail.com](mailto:kranthikumarkeesam@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/keesamk](https://www.linkedin.com/in/keesamk/)  
