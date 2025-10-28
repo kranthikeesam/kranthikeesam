@@ -1,52 +1,77 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Kranthi Keesam</span></h1>
+<h3 align="center">Data Analyst | Business Analyst | SQL | Python | Power BI | AWS | Azure</h3>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="220" alt="Data Analyst working GIF"/>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+### 💡 About Me
+I’m a results-driven **Data and Business Analyst** passionate about transforming complex datasets into actionable insights.  
+I specialize in designing **ETL workflows**, building **interactive dashboards**, and supporting data-driven decision-making.  
+With experience across **AWS**, **Azure**, and modern **data analytics tools**, I focus on bridging the gap between business and technology.  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+---
 
-###
+### 🧠 What I Do
+- 📊 Analyze data to uncover insights and optimize business strategies  
+- ⚙️ Develop ETL pipelines and automate workflows using **Python** and **SQL**  
+- 📈 Build interactive dashboards in **Power BI** and **Excel**  
+- 🧪 Conduct **A/B testing** to validate hypotheses and improve outcomes  
+- ☁️ Work with **AWS** and **Azure** for data storage and analytics pipelines  
+- 🚀 Implement **CI/CD** pipelines and automation via **Jenkins**  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+### 🧰 Tech Stack & Tools
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+#### 🗃️ Languages & Libraries  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-###
+#### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### 🧰 Others  
+![ETL](https://img.shields.io/badge/ETL-007396?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF4500?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 Featured Projects  
+*(Add your GitHub repository links once ready)*  
+- **Sales Performance Dashboard** – Visualized sales KPIs in Power BI to identify 15% growth opportunities.  
+- **Customer Churn Analysis** – Built predictive models in Python to improve customer retention.  
+- **ETL Automation Pipeline** – Automated data ingestion using Python and AWS Lambda.  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="400" alt="Analytics GIF"/>
+</p>
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keesamk&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keesamk&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 📫 Connect with Me  
+📧 **Email:** [kranthikumarkeesam@gmail.com](mailto:kranthikumarkeesam@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/keesamk](https://www.linkedin.com/in/keesamk/)  
+
+---
+
+⭐️ *"Turning data into decisions that drive business success."*
