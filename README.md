@@ -50,7 +50,6 @@ With experience across **AWS**, **Azure**, and modern **data analytics tools**, 
 
 ### 📫 Connect with Me  
 📧 **Email:** [kranthikumarkeesam@gmail.com](mailto:kranthikumarkeesam@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/keesamk](https://www.linkedin.com/in/keesamk/)  
 
 ---
 
