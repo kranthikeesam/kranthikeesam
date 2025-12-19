@@ -9,7 +9,7 @@
 ---
 
 ### 💡 About Me
-I’m a results-driven **Data and Business Analyst** passionate about transforming complex datasets into actionable insights.  
+I’m a results-driven **Data Engineer** passionate about transforming complex datasets into actionable insights.  
 I specialize in designing **ETL workflows**, building **interactive dashboards**, and supporting data-driven decision-making.  
 With experience across **AWS**, **Azure**, and modern **data analytics tools**, I focus on bridging the gap between business and technology.  
 
