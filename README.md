@@ -14,6 +14,7 @@ I’m a results-driven Software Engineer passionate about building reliable, sca
 ---
 
 ### 🧠 What I Do
+  Design and implement reliable services and RESTful APIs that transform product requirements into scalable, well-tested code used in real-world applications.
 - 📊 Analyze data to uncover insights and optimize business strategies  
 - ⚙️ Develop ETL pipelines and automate workflows using **Python** and **SQL**  
 - 📈 Build interactive dashboards in **Power BI** and **Excel**  
