@@ -9,9 +9,7 @@
 ---
 
 ### 💡 About Me
-I’m a results-driven **Data Engineer** passionate about transforming complex datasets into actionable insights.  
-I specialize in designing **ETL workflows**, building **interactive dashboards**, and supporting data-driven decision-making.  
-With experience across **AWS**, **Azure**, and modern **data analytics tools**, I focus on bridging the gap between business and technology.  
+I’m a results-driven Software Engineer passionate about building reliable, scalable applications that turn complex requirements into clean, maintainable solutions. I specialize in developing backend services, designing RESTful APIs, and writing efficient, well-tested code to support real-world products. With experience across cloud platforms, modern development tools, and collaborative agile teams, I focus on bridging product needs and technical execution to deliver impactful software.  
 
 ---
 
