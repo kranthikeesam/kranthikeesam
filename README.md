@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Kranthi Keesam</span></h1>
-<h3 align="center">Software Engineer| ML Engineer | SQL | Python | Power BI | AWS | Azure</h3>
+<h3 align="center">Data Analyst & Data Engineering Enthusiast | Hands-On Projects in SQL, ETL & Analytics | SQL | Python | Power BI | AWS | Azure</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="220" alt="Data Analyst working GIF"/>
@@ -9,7 +9,7 @@
 ---
 
 ### 💡 About Me
-I’m a results-driven Software Engineer passionate about building reliable, scalable applications that turn complex requirements into clean, maintainable solutions. I specialize in developing backend services, designing RESTful APIs, and writing efficient, well-tested code to support real-world products. With experience across cloud platforms, modern development tools, and collaborative agile teams, I focus on bridging product needs and technical execution to deliver impactful software.  
+Passionate about building reliable, scalable applications that turn complex requirements into clean, maintainable solutions. I specialize in developing backend services, designing RESTful APIs, and writing efficient, well-tested code to support real-world products. With experience across cloud platforms, modern development tools, and collaborative agile teams, I focus on bridging product needs and technical execution to deliver impactful software.  
 
 ---
 
