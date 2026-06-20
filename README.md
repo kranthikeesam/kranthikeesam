@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Kranthi Keesam</span></h1>
-<h3 align="center">Data Analyst & Data Engineering Enthusiast | Hands-On Projects in SQL, ETL & Analytics | SQL | Python | Power BI | AWS | Azure</h3>
+<h3 align="center">Business Analyst| Hands-On Projects in SQL, ETL & Analytics | SQL | Python | Power BI | AWS | Azure</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="220" alt="Data Analyst working GIF"/>
@@ -9,8 +9,8 @@
 ---
 
 ### 💡 About Me
-Passionate about building reliable, scalable applications that turn complex requirements into clean, maintainable solutions. I specialize in developing backend services, designing RESTful APIs, and writing efficient, well-tested code to support real-world products. With experience across cloud platforms, modern development tools, and collaborative agile teams, I focus on bridging product needs and technical execution to deliver impactful software.  
-
+Hi, I'm Kranthi — a Business Analyst with an Amazon operations background, now focused on claims and process analytics. I spent 2.5 years supporting Selling Partner operations across five global marketplaces, then moved into healthcare claims analytics, building dashboards and driving measurable process improvements.
+Here you'll find projects where I apply that same rigor in Python — exploring data with Pandas, SQL, and Tableau to find the story behind the numbers. Open to connecting on data, claims, or operations analytics work.
 ---
 
 ### 🧠 What I Do
@@ -32,18 +32,6 @@ Passionate about building reliable, scalable applications that turn complex requ
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-#### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
-
-#### 🧰 Others  
-![ETL](https://img.shields.io/badge/ETL-007396?style=for-the-badge)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF4500?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
