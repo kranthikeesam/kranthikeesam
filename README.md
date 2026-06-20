@@ -11,16 +11,6 @@
 ### 💡 About Me
 Hi, I'm Kranthi — a Business Analyst with an Amazon operations background, now focused on claims and process analytics. I spent 2.5 years supporting Selling Partner operations across five global marketplaces, then moved into healthcare claims analytics, building dashboards and driving measurable process improvements.
 Here you'll find projects where I apply that same rigor in Python — exploring data with Pandas, SQL, and Tableau to find the story behind the numbers. Open to connecting on data, claims, or operations analytics work.
----
-
-### 🧠 What I Do
-  Design and implement reliable services and RESTful APIs that transform product requirements into scalable, well-tested code used in real-world applications.
-- 📊 Analyze data to uncover insights and optimize business strategies  
-- ⚙️ Develop ETL pipelines and automate workflows using **Python** and **SQL**  
-- 📈 Build interactive dashboards in **Power BI** and **Excel**  
-- 🧪 Conduct **A/B testing** to validate hypotheses and improve outcomes  
-- ☁️ Work with **AWS** and **Azure** for data storage and analytics pipelines  
-- 🚀 Implement **CI/CD** pipelines and automation via **Jenkins**  
 
 ---
 
